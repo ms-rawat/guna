@@ -1,0 +1,2 @@
+# guna
+weapon dangeroius
